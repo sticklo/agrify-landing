@@ -34,7 +34,7 @@ const NavMoreDropdown = ({ moreToggle, setMoreToggle }) => {
       <div className='rounded-[1.2rem] flex flex-col items-left border-box gap-[2.5rem] '>
         <div>
           <div>
-            <Link href='https://agrify-africa.netlify.app/'>
+            <Link href='https://agrify-africa.netlify.app/' target="_blank">
               <h1 className=' cursor-pointer w-fit text-[40px] py-1 hover:text-ag-green '>
                 marketplace
               </h1>

@@ -34,10 +34,11 @@ const LandingPage = () => {
               shop organic produce
             </h1>
             <p>
-              join our community of suppliers, and boost your income by
-              discovering new markets that need your organic produce.
+              we’ve curated a community of small and large quantity organic
+              produce suppliers, who are dedicated to safe and timely deliveries
+              of produce across international borders
             </p>
-            <Link href='https://agrify-africa.netlify.app/'>
+            <Link href='https://agrify-africa.netlify.app/' target="_blank">
               <button className=' p-3 lg:p-4 border-black border-[1px] w-10/12 md:w-1/2 xl:w-1/3 my-6 md:mt-12 text-sm hover:text-white hover:border-[#0CC14C] hover:bg-[#0CC14C] rounded-[50px]'>
                 go to marketplace
               </button>
@@ -48,10 +49,10 @@ const LandingPage = () => {
           </div>
           <div className='lg:w-1/2 p-10 bg-[#FFFAD7] rounded-[1rem]'>
             <h1 className='text-2xl py-4 md:text-[40px]'>join as a supplier</h1>
+            
             <p>
-              we’ve curated a community of small and large quantity organic
-              produce suppliers, who are dedicated to safe and timely deliveries
-              of produce across international borders
+              join our community of suppliers, and boost your income by
+              discovering new markets that need your organic produce.
             </p>
             <button className=' p-3 lg:p-4 border-black border-[1px] w-10/12 md:w-1/2 xl:w-1/3 mt-12 text-sm hover:text-white hover:border-[#0CC14C] hover:bg-[#0CC14C] rounded-[50px]'>
               start verification
